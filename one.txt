@@ -1,0 +1,1 @@
+After running this command, Git will stage the rename operation, and you can then commit the change using git commit. Make sure to add and commit the change to make it permanent.
